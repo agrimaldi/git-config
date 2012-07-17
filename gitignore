@@ -1,0 +1,33 @@
+################
+# System wide
+################
+*~
+*.cache
+*.log
+*.pid
+.DS_Store
+*.sw*
+
+###############
+# Xcode specific
+build/*
+*.pbxuser
+*.mode1v3
+
+###############
+# TextMate prokect files
+*.tmproj
+
+###############
+# Python
+*.pyc
+*.pyo
+
+###############
+# archives
+*.gz
+*.tgz
+*.tar
+*.tar.gz
+*.tar.bz2
+*.safariextz
